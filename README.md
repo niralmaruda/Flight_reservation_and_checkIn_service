@@ -25,7 +25,7 @@ with reservations.
 
 
 #### Microservice for checking in passengers
-https://github.com/niralmaruda/flight_checkIn_service/tree/master#flight-checkin-microservice
+https://github.com/niralmaruda/flight_checkIn_service
 
 
 
